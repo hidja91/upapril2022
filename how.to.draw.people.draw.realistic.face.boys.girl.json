@@ -1,0 +1,144 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "title":"How To Draw People",
+      "image":"more/Screenshot_1.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.people.draw.realistic.face.boys.girl"
+    },
+    {
+      "title":"How To Draw Blackpink",
+      "image":"more/Screenshot_2.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.kpop.blackpink.jennie.jisoo.rose.lisa"
+    },
+    {
+      "title":"How To Draw Princes",
+      "image":"more/Screenshot_3.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.princes.beauty.salon"
+    }
+  ],
+  "Image": [
+    {
+      "id": 1,
+      "name_draw": "Draw Girl 1",
+      "cover_draw": "girl1/a1.webp",
+	  "image_step_1": "girl1/a1.webp",
+      "image_step_2": "girl1/a2.webp",
+      "image_step_3": "girl1/a3.webp",
+      "image_step_4": "girl1/a4.webp",
+      "image_step_5": "girl1/a5.webp",
+      "image_step_6": "girl1/a6.webp",
+      "image_step_7": "girl1/a7.webp",
+      "image_step_8": "girl1/a8.webp",
+      "image_step_9": "girl1/a9.webp",
+      "image_step_10": "girl1/a10.webp",
+      "image_step_11": "girl1/a11.webp",
+	  "image_step_12": "girl1/a12.webp",
+      "image_step_13": "girl1/a13.webp",
+      "image_step_14": "girl1/a14.webp"
+    },
+    {
+      "id": 2,
+      "name_draw": "Draw Girl 2",
+      "cover_draw": "girl2/b1.webp",
+      "image_step_1": "girl2/b2.webp",
+      "image_step_2": "girl2/b3.webp",
+      "image_step_3": "girl2/b4.webp",
+      "image_step_4": "girl2/b5.webp",
+      "image_step_5": "girl2/b6.webp",
+      "image_step_6": "girl2/b7.webp",
+      "image_step_7": "girl2/b8.webp",
+      "image_step_8": "girl2/b9.webp",
+      "image_step_9": "girl2/b10.webp",
+      "image_step_10": "girl2/b11.webp"
+    }
+    ,{
+      "id": 3,
+      "name_draw": "Draw Girl 3",
+      "cover_draw": "girl3/c1.webp",
+      "image_step_1": "girl3/c2.webp",
+      "image_step_2": "girl3/c3.webp",
+      "image_step_3": "girl3/c4.webp",
+      "image_step_4": "girl3/c5.webp",
+      "image_step_5": "girl3/c6.webp",
+      "image_step_6": "girl3/c7.webp",
+      "image_step_7": "girl3/c8.webp",
+      "image_step_8": "girl3/c9.webp",
+      "image_step_9": "girl3/c10.webp",
+      "image_step_10": "girl2/b11.webp"
+    } 
+	,{
+      "id": 4,
+      "name_draw": "Draw Boy 1",
+      "cover_draw": "boy1/d1.webp",
+      "image_step_1": "boy1/d1.webp",
+      "image_step_2": "boy1/d2.webp",
+      "image_step_3": "boy1/d3.webp",
+      "image_step_4": "boy1/d4.webp",
+      "image_step_5": "boy1/d5.webp",
+      "image_step_6": "boy1/d6.webp",
+      "image_step_7": "boy1/d7.webp",
+      "image_step_8": "boy1/d8.webp",
+      "image_step_9": "boy1/d9.webp",
+      "image_step_10": "boy1/d10.webp",
+      "image_step_11": "boy1/d11.webp",
+      "image_step_12": "boy1/d12.webp"
+    }
+	,{
+      "id": 5,
+      "name_draw": "Draw Girl 4",
+      "cover_draw": "girl4/e1.webp",
+      "image_step_1": "girl4/e1.webp",
+      "image_step_2": "girl4/e2.webp",
+      "image_step_3": "girl4/e3.webp",
+      "image_step_4": "girl4/e4.webp",
+      "image_step_5": "girl4/e5.webp",
+      "image_step_6": "girl4/e6.webp",
+      "image_step_7": "girl4/e7.webp",
+      "image_step_8": "girl4/e8.webp",
+      "image_step_9": "girl4/e9.webp",
+      "image_step_10": "girl4/e10.webp",
+      "image_step_11": "girl4/e11.webp",
+      "image_step_12": "girl4/e12.webp",
+      "image_step_13": "girl4/e13.webp",
+      "image_step_14": "girl4/e14.webp",
+      "image_step_15": "girl4/e15.webp"
+    },{
+      "id": 6,
+      "name_draw": "Draw Boy 2",
+      "cover_draw": "boy2/f10.webp",
+      "image_step_1": "boy2/f1.webp",
+      "image_step_2": "boy2/f2.webp",
+      "image_step_3": "boy2/f3.webp",
+      "image_step_4": "boy2/f4.webp",
+      "image_step_5": "boy2/f5.webp",
+      "image_step_6": "boy2/f6.webp",
+      "image_step_7": "boy2/f7.webp",
+      "image_step_8": "boy2/f8.webp",
+      "image_step_9": "boy2/f9.webp",
+      "image_step_10": "boy2/f10.webp"
+    }
+  ]
+}
