@@ -1,11 +1,10 @@
 {
   "Ads": [
-      {
+    {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"ADMOB",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
-      "native_for_admob":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 5,
@@ -18,11 +17,9 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
-      }
-   ],
-
-  "More":
-  [
+    }
+  ],
+   "More":
   [
     {
       "title":"How To Draw People",
