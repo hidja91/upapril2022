@@ -10,17 +10,16 @@
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "Trading",
-      "high_paying_keyword_2": "Gold",
-      "high_paying_keyword_3": "Insurance",
-      "high_paying_keyword_4": "Donate",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
     }
   ],
-
-  "More":
+   "More":
   [
     {
       "title":"How To Draw People",
