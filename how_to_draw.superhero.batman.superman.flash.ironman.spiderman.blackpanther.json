@@ -1,0 +1,242 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "title":"How To Draw People",
+      "image":"more/Screenshot_1.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.people.draw.realistic.face.boys.girl"
+    },
+    {
+      "title":"How To Draw Blackpink",
+      "image":"more/Screenshot_2.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.kpop.blackpink.jennie.jisoo.rose.lisa"
+    },
+    {
+      "title":"How To Draw Princes",
+      "image":"more/Screenshot_3.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.princes.beauty.salon"
+    },
+    {
+      "title":"How To Draw Anime",
+      "image":"more/Screenshot_4.png",
+      "link":"https://play.google.com/store/apps/details?id=how_to_draw.anime.manga.supersaiyan.ultrainstic.goku.luffy.bokunohero.killua.kakashi"
+    },
+    {
+      "title":"How To Draw Pennywise",
+      "image":"more/Screenshot_5.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.scary.horor.clown.pennywise"
+    },
+    {
+      "title":"How To Draw Joker",
+      "image":"more/Screenshot_6.png",
+      "link":"https://play.google.com/store/apps/details?id=scary.joker.how.to.draw"
+    },
+    {
+      "title":"How To Draw Mr Fuuny been",
+      "image":"more/Screenshot_7.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.mr.funnymr.bean"
+    }
+  ],
+  "Image": [
+    {
+      "id": 1,
+      "name_draw": "Ultramen 1",
+      "cover_draw": "ultramen1/h12.png",
+      "image_step_1": "ultramen1/h1.png",
+      "image_step_2": "ultramen1/h2.png",
+      "image_step_3": "ultramen1/h3.png",
+      "image_step_4": "ultramen1/h4.png",
+      "image_step_5": "ultramen1/h5.png",
+      "image_step_6": "ultramen1/h6.png",
+      "image_step_7": "ultramen1/h7.png",
+      "image_step_8": "ultramen1/h8.png",
+      "image_step_9": "ultramen1/h9.png",
+      "image_step_10": "ultramen1/h10.png",
+      "image_step_11": "ultramen1/h11.png",
+      "image_step_12": "ultramen1/h12.png"
+    },
+    {
+      "id": 2,
+      "name_draw": "Super Hero 1",
+      "cover_draw": "superhero1/a14.webp",
+      "image_step_1": "superhero1/a1.webp",
+      "image_step_2": "superhero1/a2.webp",
+      "image_step_3": "superhero1/a3.webp",
+      "image_step_4": "superhero1/a4.webp",
+      "image_step_5": "superhero1/a5.webp",
+      "image_step_6": "superhero1/a6.webp",
+      "image_step_7": "superhero1/a7.webp",
+      "image_step_8": "superhero1/a8.webp",
+      "image_step_9": "superhero1/a9.webp",
+      "image_step_10": "superhero1/a10.webp",
+      "image_step_11": "superhero1/a11.webp",
+      "image_step_12": "superhero1/a12.webp",
+      "image_step_13": "superhero1/a13.webp",
+      "image_step_14": "superhero1/a14.webp"
+    },
+	{
+      "id": 3,
+      "name_draw": "Super Hero 2",
+      "cover_draw": "superhero2/b13.webp",
+      "image_step_1": "superhero2/b1.webp",
+      "image_step_2": "superhero2/b2.webp",
+      "image_step_3": "superhero2/b3.webp",
+      "image_step_4": "superhero2/b4.webp",
+      "image_step_5": "superhero2/b5.webp",
+      "image_step_6": "superhero2/b6.webp",
+      "image_step_7": "superhero2/b7.webp",
+      "image_step_8": "superhero2/b8.webp",
+      "image_step_9": "superhero2/b9.webp",
+      "image_step_10": "superhero2/b10.webp",
+      "image_step_11": "superhero2/b11.webp",
+      "image_step_12": "superhero2/b12.webp",
+      "image_step_13": "superhero2/b13.webp",
+      "image_step_14": "superhero2/b14.webp"
+    },
+	{
+      "id": 4,
+      "name_draw": "Ultramen 2",
+      "cover_draw": "ultramen2/i5.png",
+      "image_step_1": "ultramen2/i1.png",
+      "image_step_2": "ultramen2/i2.png",
+      "image_step_3": "ultramen2/i3.png",
+      "image_step_4": "ultramen2/i3.png",
+      "image_step_5": "ultramen2/i4.png",
+      "image_step_6": "ultramen2/i5.png",
+      "image_step_7": "ultramen2/i5.png",
+      "image_step_8": "ultramen2/i6.png",
+      "image_step_9": "ultramen2/i5.png",
+      "image_step_10": "ultramen2/i5.png"
+    },
+	{
+      "id": 5,
+      "name_draw": "Ultramen 3",
+      "cover_draw": "ultramen3/j5.png",
+      "image_step_1": "ultramen3/j1.png",
+      "image_step_2": "ultramen3/j2.png",
+      "image_step_3": "ultramen3/j3.png",
+      "image_step_4": "ultramen3/j3.png",
+      "image_step_5": "ultramen3/j4.png",
+      "image_step_6": "ultramen3/j4.png",
+      "image_step_7": "ultramen3/j5.png",
+      "image_step_8": "ultramen3/j5.png",
+      "image_step_9": "ultramen3/j5.png",
+      "image_step_10": "ultramen3/j5.png"
+    },
+	{
+      "id": 6,
+      "name_draw": "Super Hero 3",
+      "cover_draw": "superhero3/c15.webp",
+      "image_step_1": "superhero3/c1.webp",
+      "image_step_2": "superhero3/c2.webp",
+      "image_step_3": "superhero3/c3.webp",
+      "image_step_4": "superhero3/c4.webp",
+      "image_step_5": "superhero3/c5.webp",
+      "image_step_6": "superhero3/c6.webp",
+      "image_step_7": "superhero3/c7.webp",
+      "image_step_8": "superhero3/c8.webp",
+      "image_step_9": "superhero3/c9.webp",
+      "image_step_10": "superhero3/c10.webp",
+      "image_step_11": "superhero3/c11.webp",
+      "image_step_12": "superhero3/c12.webp",
+      "image_step_13": "superhero3/c13.webp",
+      "image_step_14": "superhero3/c14.webp",
+      "image_step_15": "superhero3/c15.webp"
+    },
+	{
+      "id": 7,
+      "name_draw": "Super Hero 4",
+      "cover_draw": "superhero4/d15.webp",
+      "image_step_1": "superhero4/d1.webp",
+      "image_step_2": "superhero4/d2.webp",
+      "image_step_3": "superhero4/d3.webp",
+      "image_step_4": "superhero4/d4.webp",
+      "image_step_5": "superhero4/d5.webp",
+      "image_step_6": "superhero4/d6.webp",
+      "image_step_7": "superhero4/d7.webp",
+      "image_step_8": "superhero4/d8.webp",
+      "image_step_9": "superhero4/d9.webp",
+      "image_step_10": "superhero4/d10.webp",
+      "image_step_11": "superhero4/d11.webp",
+      "image_step_12": "superhero4/d12.webp",
+      "image_step_13": "superhero4/d13.webp",
+      "image_step_14": "superhero4/d14.webp",
+      "image_step_15": "superhero4/d15.webp"
+    },
+	{
+      "id": 8,
+      "name_draw": "Super Hero 5",
+      "cover_draw": "superhero5/e12.webp",
+      "image_step_1": "superhero5/e1.webp",
+      "image_step_2": "superhero5/e2.webp",
+      "image_step_3": "superhero5/e3.webp",
+      "image_step_4": "superhero5/e4.webp",
+      "image_step_5": "superhero5/e5.webp",
+      "image_step_6": "superhero5/e6.webp",
+      "image_step_7": "superhero5/e7.webp",
+      "image_step_8": "superhero5/e8.webp",
+      "image_step_9": "superhero5/e9.webp",
+      "image_step_10": "superhero5/e10.webp",
+      "image_step_11": "superhero5/e11.webp",
+      "image_step_12": "superhero5/e12.webp"
+    },
+	{
+      "id": 9,
+      "name_draw": "Super Hero 6",
+      "cover_draw": "superhero6/f11.webp",
+      "image_step_1": "superhero6/f1.webp",
+      "image_step_2": "superhero6/f2.webp",
+      "image_step_3": "superhero6/f3.webp",
+      "image_step_4": "superhero6/f4.webp",
+      "image_step_5": "superhero6/f5.webp",
+      "image_step_6": "superhero6/f6.webp",
+      "image_step_7": "superhero6/f7.webp",
+      "image_step_8": "superhero6/f8.webp",
+      "image_step_9": "superhero6/f9.webp",
+      "image_step_10": "superhero6/f10.webp",
+      "image_step_11": "superhero6/f11.webp"
+    },
+	{
+      "id": 10,
+      "name_draw": "Super Hero 7",
+      "cover_draw": "superhero7/g15.webp",
+      "image_step_1": "superhero7/g1.webp",
+      "image_step_2": "superhero7/g2.webp",
+      "image_step_3": "superhero7/g3.webp",
+      "image_step_4": "superhero7/g4.webp",
+      "image_step_5": "superhero7/g5.webp",
+      "image_step_6": "superhero7/g6.webp",
+      "image_step_7": "superhero7/g7.webp",
+      "image_step_8": "superhero7/g8.webp",
+      "image_step_9": "superhero7/g9.webp",
+      "image_step_10": "superhero7/g10.webp",
+      "image_step_11": "superhero7/g11.webp",
+      "image_step_12": "superhero7/g12.webp",
+      "image_step_13": "superhero7/g13.webp",
+      "image_step_14": "superhero7/g14.webp",
+      "image_step_15": "superhero7/g15.webp"
+    }
+  ]
+}
