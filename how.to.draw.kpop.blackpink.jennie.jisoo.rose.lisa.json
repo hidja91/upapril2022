@@ -1,0 +1,151 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "title":"How To Draw People",
+      "image":"more/Screenshot_1.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.people.draw.realistic.face.boys.girl"
+    },
+    {
+      "title":"How To Draw Blackpink",
+      "image":"more/Screenshot_2.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.kpop.blackpink.jennie.jisoo.rose.lisa"
+    },
+    {
+      "title":"How To Draw Princes",
+      "image":"more/Screenshot_3.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.princes.beauty.salon"
+    },
+    {
+      "title":"How To Draw Anime",
+      "image":"more/Screenshot_4.png",
+      "link":"https://play.google.com/store/apps/details?id=how_to_draw.anime.manga.supersaiyan.ultrainstic.goku.luffy.bokunohero.killua.kakashi"
+    },
+    {
+      "title":"How To Draw Pennywise",
+      "image":"more/Screenshot_5.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.scary.horor.clown.pennywise"
+    },
+    {
+      "title":"How To Draw Joker",
+      "image":"more/Screenshot_6.png",
+      "link":"https://play.google.com/store/apps/details?id=scary.joker.how.to.draw"
+    },
+    {
+      "title":"How To Draw Mr Fuuny been",
+      "image":"more/Screenshot_7.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.mr.funnymr.bean"
+    }
+  ],
+  "Image": [
+    {
+      "id": 1,
+      "name_draw": "Jennie Kim",
+      "cover_draw": "jenniekim/a14.webp",
+      "image_step_1": "jenniekim/a1.webp",
+      "image_step_2": "jenniekim/a2.webp",
+      "image_step_3": "jenniekim/a3.webp",
+      "image_step_4": "jenniekim/a4.webp",
+      "image_step_5": "jenniekim/a5.webp",
+      "image_step_6": "jenniekim/a6.webp",
+      "image_step_7": "jenniekim/a7.webp",
+      "image_step_8": "jenniekim/a8.webp",
+      "image_step_9": "jenniekim/a9.webp",
+      "image_step_10": "jenniekim/a10.webp",
+      "image_step_11": "jenniekim/a11.webp",
+      "image_step_12": "jenniekim/a12.webp",
+      "image_step_13": "jenniekim/a13.webp",
+      "image_step_14": "jenniekim/a14.webp"
+    },
+    {
+      "id": 2,
+      "name_draw": "Kim Jisoo",
+      "cover_draw": "kimjisoo/b14.webp",
+      "image_step_1": "kimjisoo/b1.webp",
+      "image_step_2": "kimjisoo/b2.webp",
+      "image_step_3": "kimjisoo/b3.webp",
+      "image_step_4": "kimjisoo/b4.webp",
+      "image_step_5": "kimjisoo/b5.webp",
+      "image_step_6": "kimjisoo/b6.webp",
+      "image_step_7": "kimjisoo/b7.webp",
+      "image_step_8": "kimjisoo/b8.webp",
+      "image_step_9": "kimjisoo/b9.webp",
+      "image_step_10": "kimjisoo/b10.webp",
+      "image_step_11": "kimjisoo/b11.webp",
+      "image_step_12": "kimjisoo/b12.webp",
+      "image_step_13": "kimjisoo/b13.webp",
+      "image_step_14": "kimjisoo/b14.webp"
+    },
+	{
+      "id": 3,
+      "name_draw": "Rose",
+      "cover_draw": "rose/c13.webp",
+      "image_step_1": "rose/c1.webp",
+      "image_step_2": "rose/c2.webp",
+      "image_step_3": "rose/c3.webp",
+      "image_step_4": "rose/c4.webp",
+      "image_step_5": "rose/c5.webp",
+      "image_step_6": "rose/c6.webp",
+      "image_step_7": "rose/c7.webp",
+      "image_step_8": "rose/c8.webp",
+      "image_step_9": "rose/c9.webp",
+      "image_step_10": "rose/c10.webp",
+      "image_step_11": "rose/c11.webp",
+      "image_step_12": "rose/c12.webp",
+      "image_step_13": "rose/c13.webp"
+    },
+	{
+      "id": 4,
+      "name_draw": "Lisa",
+      "cover_draw": "lisa/d25.webp",
+      "image_step_1": "lisa/d1.webp",
+      "image_step_2": "lisa/d2.webp",
+      "image_step_3": "lisa/d3.webp",
+      "image_step_4": "lisa/d4.webp",
+      "image_step_5": "lisa/d5.webp",
+      "image_step_6": "lisa/d6.webp",
+      "image_step_7": "lisa/d7.webp",
+      "image_step_8": "lisa/d8.webp",
+      "image_step_9": "lisa/d9.webp",
+      "image_step_10": "lisa/d10.webp",
+      "image_step_11": "lisa/d11.webp",
+      "image_step_12": "lisa/d12.webp",
+      "image_step_13": "lisa/d13.webp",
+      "image_step_14": "lisa/d14.webp",
+      "image_step_15": "lisa/d15.webp",
+      "image_step_16": "lisa/d16.webp",
+      "image_step_17": "lisa/d17.webp",
+      "image_step_18": "lisa/d18.webp",
+      "image_step_19": "lisa/d19.webp",
+      "image_step_20": "lisa/d20.webp",
+      "image_step_21": "lisa/d21.webp",
+      "image_step_22": "lisa/d22.webp",
+      "image_step_23": "lisa/d23.webp",
+      "image_step_24": "lisa/d24.webp",
+      "image_step_25": "lisa/d25.webp"
+    }
+  ]
+}
+
